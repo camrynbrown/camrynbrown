@@ -35,7 +35,8 @@ One of my many dream projects is to work on a virtual reality application that i
 - My Project Ideas
 
 ### 📫 How to Reach Me:
-- **[LinkedIn](Your LinkedIn URL)**
+- **[LinkedIn](https://www.linkedin.com/in/camrynabrown/)**
+  ![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&logoColor=white)
 
 ### 😄 Pronouns:
 - She/Her
